@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+cassio
+langchain
+astrapy
+cassandra-driver
+openai
+python-dotenv
