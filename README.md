@@ -1,7 +1,7 @@
 # Health_Insurance-ChatBot
 
+![chatbot](https://github.com/HitPant/Health_Insurance-ChatBot/assets/30971790/283df540-37a2-427c-a2cb-4726f4b43d25)
 
-https://github.com/HitPant/Health_Insurance-ChatBot/assets/30971790/15894753-22d8-4dbd-b896-f93e05d96a48
 
 ## Introduction
 This project aims to assist both U.S. residents and international students in understanding the complexities of the U.S. medical insurance system. It provides insights into how the system operates, the various types of insurance available, and key policy-related terms and information.
