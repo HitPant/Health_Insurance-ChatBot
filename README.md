@@ -9,7 +9,7 @@ This project aims to assist both U.S. residents and international students in un
 Utilizing specialized dataset focused on insurance, this chatbot has been designed to provide precise and accurate answers to your queries, ensuring you have the information you need at your fingertips.
 
 ## Objective
-Develop a Retrieval-Augmented Generation (RAG) based chatbot using LangChain and OpenAI in Python. Extract data from various PDFs, split it into text chunks, and convert these chunks into vectors using OpenAI Embeddings. Store the vectors in a Cassandra database. Upon user query, perform a similarity search in the vector database to provide relevant responses.
+Developed a Retrieval-Augmented Generation (RAG)-based chatbot using LangChain and OpenAI in Python. Extracted data from multiple PDFs, split it into text chunks, and converted these chunks into vectors using OpenAI Embeddings. Stored the vectors in a Cassandra database (with vector capabilities). Upon user query, the bot performs a similarity search in the vector database to provide relevant responses.
 
 ## Tech Stack
 #### Streamlit
